@@ -56,4 +56,4 @@ Durante a imersão aprendemos a:
  
 <br>
 
-Acesse o [notebook completo](https://colab.research.google.com/drive/1XdLzGsfKbzpk8Ncp6nn-F9urD4ahKdCZ) deste projeto com todas as análises e conclusões!
+Acesse o [notebook completo](https://github.com/trindaderafa/imersao-dados-desafio-final/blob/main/First_Portfolio_in_Data_Science_Drugdiscovery.ipynb) deste projeto com todas as análises e conclusões!
