@@ -1,6 +1,8 @@
 
 # Desafio Final Imersão Dados
 
+![Capa](https://user-images.githubusercontent.com/83909180/117574570-1ce05d80-b0b4-11eb-8131-eff03256a075.JPG)
+
 **Olá Cientistas!**
 
 Neste repositório você vai encontrar todas as informações necessárias para o desenvolvimento do projeto final da Imersão Dados.
