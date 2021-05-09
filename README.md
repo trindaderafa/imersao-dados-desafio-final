@@ -53,3 +53,7 @@ Durante a imersão aprendemos a:
 
 <br>  
 <p  align = "justify">Também são elaborados vários desafios ao longo das aulas para proporcionar um maior aprendizado do conteúdo exposto pelos professores.
+ 
+<br>
+
+Acesse o [notebook completo](https://colab.research.google.com/drive/1XdLzGsfKbzpk8Ncp6nn-F9urD4ahKdCZ) deste projeto com todas as análises e conclusões!
