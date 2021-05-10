@@ -32,7 +32,7 @@
 
 <br>
 
-Acesse agora o [notebook completo](https://github.com/trindaderafa/imersao-dados-desafio-final/blob/main/First_Portfolio_in_Data_Science_Drugdiscovery.ipynb) do Projeto Final - Imersão Dados 3, com todas as análises e conclusões!
+Acesse agora o [notebook completo](https://github.com/trindaderafa/imersao-dados-desafio-final/blob/main/First_Portfolio_in_Data_Science_Drugdiscovery.ipynb) do Projeto Final - Imersão Dados 3, com todas as análises e conclusões.
 
 
 <br>
